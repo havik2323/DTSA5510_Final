@@ -13,5 +13,5 @@ The repository is organized as follows:
 - **Week 5 Final Project - Credit Card Default.ipynb**: Jupyter notebook containing the code and analysis for the final project.
 
 ## Project Description
-The project aims to predict whether a credit card holder will default on their payment next month. The analysis includes data preprocessing, exploratory data analysis, model building, and evaluation.
+The project aims to predict whether a credit card holder will default on their loan. The analysis includes data preprocessing, exploratory data analysis, model building, and evaluation.
 

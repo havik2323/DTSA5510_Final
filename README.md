@@ -7,7 +7,7 @@ This repository contains the final project for the DTSA5510 course. The project 
 The repository is organized as follows:
 
 - **data/**: Contains the dataset used for the analysis.
-- **output/**: Contains the output files generated from the analysis.
+- **output/**: Contains the output files generated from the analysis to include visualization of accuracy histograms and cluster visualizations.
 - **Credit Card Default Prediction.pdf**: PDF version of the final presentation.
 - **Credit Card Default Prediction.pptx**: PowerPoint version of the final presentation.
 - **Week 5 Final Project - Credit Card Default.ipynb**: Jupyter notebook containing the code and analysis for the final project.
